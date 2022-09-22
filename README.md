@@ -1,2 +1,3 @@
-# wp-add-recaptcha-on-wordpress-login-page
-Add reCaptcha on WordPress Login Page
+# Add reCaptcha on WordPress Login Page
+
+Article: https://wiryawanadipa.com/blog/add-recaptcha-on-wordpress-admin-login-page-without-plugin/
